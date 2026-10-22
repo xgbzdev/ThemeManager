@@ -8,8 +8,8 @@
   "orientation": ["portrait-primary"],
   "developer": { "name": "ThemeManager" },
   "icons": {
-    "60": "/icons/app-60.svg",
-    "128": "/icons/app-128.svg"
+    "60": "/icons/app-60.png",
+    "128": "/icons/app-128.png"
   },
   "permissions": {
     "settings": {
