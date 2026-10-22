@@ -6,16 +6,16 @@
     { "family": "Midnight Sans", "file": "MidnightSans.woff" }
   ],
   "wallpapers": [
-    { "name": "Night sky", "file": "night.svg" }
+    { "name": "Night sky", "file": "night.png" }
   ],
   "iconPacks": [
     {
       "name": "Midnight icons",
       "map": {
-        "Phone": "phone.svg",
-        "Messages": "messages.svg",
-        "Camera": "camera.svg",
-        "Settings": "settings.svg"
+        "Phone": "phone.png",
+        "Messages": "messages.png",
+        "Camera": "camera.png",
+        "Settings": "settings.png"
       }
     }
   ]

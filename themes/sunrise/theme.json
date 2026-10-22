@@ -6,16 +6,16 @@
     { "family": "Sunrise Serif", "file": "SunriseSerif.woff" }
   ],
   "wallpapers": [
-    { "name": "Dawn", "file": "dawn.svg" }
+    { "name": "Dawn", "file": "dawn.png" }
   ],
   "iconPacks": [
     {
       "name": "Sunrise icons",
       "map": {
-        "Phone": "phone.svg",
-        "Messages": "messages.svg",
-        "Camera": "camera.svg",
-        "Settings": "settings.svg"
+        "Phone": "phone.png",
+        "Messages": "messages.png",
+        "Camera": "camera.png",
+        "Settings": "settings.png"
       }
     }
   ]
