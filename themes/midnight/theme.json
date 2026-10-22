@@ -1,0 +1,22 @@
+{
+  "name": "Midnight",
+  "author": "ThemeManager",
+  "colors": { "bg": "#0d1117", "fg": "#e6edf3", "accent": "#58a6ff", "card": "#161b22" },
+  "fonts": [
+    { "family": "Midnight Sans", "file": "MidnightSans.woff" }
+  ],
+  "wallpapers": [
+    { "name": "Night sky", "file": "night.svg" }
+  ],
+  "iconPacks": [
+    {
+      "name": "Midnight icons",
+      "map": {
+        "Phone": "phone.svg",
+        "Messages": "messages.svg",
+        "Camera": "camera.svg",
+        "Settings": "settings.svg"
+      }
+    }
+  ]
+}
